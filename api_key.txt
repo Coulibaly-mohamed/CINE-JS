@@ -1,0 +1,1 @@
+APi_KEY = "5bbbccfaf48c26c30c6dd091bff9a96e"
